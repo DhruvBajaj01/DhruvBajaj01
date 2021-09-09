@@ -8,7 +8,6 @@
 <p align='center'> Connect with me on: </p>
 
 <p align='center'>
-
 <a href="https://www.instagram.com/dhruv_bajaj_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="www.linkedin.com/in/dhruv-bajaj01"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
