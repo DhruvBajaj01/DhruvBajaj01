@@ -5,8 +5,17 @@
 - :pencil2:  I’m addicted to learning and growing every day
 - :earth_africa: I am currently working as a ML Research Intern and Data scientist
 
+<p align='center'> Connect with me on: </p>
+
+<p align='center'>
+
+<a href="https://www.instagram.com/dhruv_bajaj_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/dhruv-bajaj01"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 [![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=DhruvBajaj01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/DhruvBajaj01/github-readme-stats)
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
