@@ -4,6 +4,7 @@
 - :zap: I love math, programming, data science, and Machine Learning
 - :pencil2:  I’m addicted to learning and growing every day
 - :earth_africa: I am currently working as a ML Research Intern and Data scientist
+- 📫 How to reach me **9653dhr@gmail.com**
 
 <p align='center'> Connect with me on: </p>
 
