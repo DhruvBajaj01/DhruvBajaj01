@@ -1,4 +1,9 @@
 # Hello, Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Dhruv Here!✨
+
+![Hello world!](https://user-images.githubusercontent.com/71027506/145395122-4e41c8bf-5806-487a-9b47-5a9c4a026162.gif)
+
+
+
 - 🔭 I’m currently working on Machine learning and Artificail Intelligence
 - 🌱 I’m currently learning Deep neural network 
 - :zap: I love math, programming, data science, and Machine Learning
