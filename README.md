@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Machine learning and Artificail Intelligence
+- 🔭 I’m currently working on Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Deep neural network 
 - :zap: I love math, programming, data science, and Machine Learning
 - :pencil2:  I’m addicted to learning and growing every day
